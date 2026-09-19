@@ -1,5 +1,7 @@
 # KTU Exam Prep AI
 
+> **Superseded project:** This repository preserves an earlier iteration of the product. Active development continues in [ModuleWyse](https://github.com/udaySuryaP/modulewyse), with reviewed-source retrieval and clearer content-readiness boundaries.
+
 An AI-assisted exam-preparation platform for APJ Abdul Kalam Technological University students. It combines course organization, study tracking and syllabus-aware assistance in one responsive application.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
